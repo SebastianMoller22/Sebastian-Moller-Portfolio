@@ -3,7 +3,5 @@ This will this repoitory outlines the serveral projcet that Sebastin Moller has 
 
 
 ## Thesis Projcet: Cable-Drive Bimanual Robot Manipulation for Collaborative Workspaces
-![CAD concept image of Prototype](https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/CAD%20CONCEPT.png)
-![CAD Prototype images](https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/CAD%20prototype.png)
-![Completed Build of Prototype](https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG_3925.jpg)
+<img src="ttps://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/CAD%20CONCEPT.png" width="300">
 
