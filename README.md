@@ -7,5 +7,6 @@ This will this repoitory outlines the serveral projcet that Sebastin Moller has 
 
 <picture>
    <source media="(min-width: 500px)" srcset="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/40ccdeefadb6822db945e4f36fc100da8592b112/Images/CAD%20CONCEPT.png" />
-   <img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/40ccdeefadb6822db945e4f36fc100da8592b112/Images/CAD%20prototype.png" alt="Banner image" />
+   <source media="(min-width: 500px)" srcset="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/40ccdeefadb6822db945e4f36fc100da8592b112/Images/CAD%20prototype.png" />
+   <source media="(min-width: 500px)" srcset="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/40ccdeefadb6822db945e4f36fc100da8592b112/Images/IMG_3925.jpg" />
 </picture>
