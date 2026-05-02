@@ -24,4 +24,3 @@ This will this repoitory outlines the serveral projcet that Sebastin Moller has 
 
 [Reasurch Project: Concave Airfoil](Airfoil/README.md)
 
-<img src="" height="400" alt="Complete Build">
