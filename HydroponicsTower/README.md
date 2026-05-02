@@ -7,6 +7,6 @@ This project is ongoing and will eventually have a controller that will connect 
 
 <img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/tower%201.png" height="400" alt="Complete Build">
 <img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/tower%202.png" height="400" alt="Complete Build">
-<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG20260502202745.jpg" height="400" alt="Complete Build">
+<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/tower%203.png" height="400" alt="Complete Build">
 <img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG20260502202745.jpg" height="400" alt="Complete Build">
 
