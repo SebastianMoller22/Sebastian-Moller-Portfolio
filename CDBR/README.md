@@ -1,7 +1,7 @@
 ## Thesis Projcet: Cable-Drive Bimanual Robot Manipulation for Collaborative Workspaces
 
-<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG20250521120141.jpg" height="600" alt="">
-<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG20250521120115.jpg" height="600" alt="">
+<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG20250521120141.jpg" height="400" alt="">
+<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG20250521120115.jpg" height="400" alt="">
 
 This project is my thesis project that completed my mechatronics degree. This project was made up of 2 supervisors, **Will Browne** and **Krishna Manaswi Digumarti** and 2 undergraduate students, **Josh Roe** and **me**. The project involved designing and developing a Bimanual Cable drive robot that could travel around the office level while performing manual tasks like brewing and delivering coffee. This would require it to navigate around the office space while transitioning from hard, smooth surfaces to carpet. As well as being able to open and close a room door and perform dexterous actions while holding objects.\
 \
@@ -39,7 +39,7 @@ I had to find the required length to light various objects to determine the requ
 I made a small measuring device (1) to determine the forces required to complete these tasks. From the test, each required less than 2.5kg of Equivalent Lifting Force, and as a result, the factor of safety was set at 3kg ELF at 600mm.
 
 ### Arm Griper
-<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/Gripper%201.png" height="600" alt="Gripper 1">
+<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/Gripper%201.png" height="900" alt="Gripper 1">
 <img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/gripper%202.png" height="400" alt="Gripper 2">
 <img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/Gripper%203.png" height="400" alt="Gripper 3">
 
