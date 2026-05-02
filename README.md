@@ -12,6 +12,8 @@ This will this repoitory outlines the serveral projcet that Sebastin Moller has 
 
 [Home Project: Hydroponics tower](HydroponicsTower/README.md)
 
+<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG20260502202745.jpg" height="400" alt="Complete Build">
+
 [Home Project: Wifi router Power point mount](RouterHolder/README.md)
 
 [Reasurch Project: Ring Drone](RingDrone/README.md)
