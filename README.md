@@ -16,6 +16,12 @@ This will this repoitory outlines the serveral projcet that Sebastin Moller has 
 
 [Home Project: Wifi router Power point mount](RouterHolder/README.md)
 
+<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/IMG-20260429-WA0013.jpg" height="400" alt="Complete Build">
+
 [Reasurch Project: Ring Drone](RingDrone/README.md)
 
+<img src="https://github.com/SebastianMoller22/Sebastian-Moller-Portfolio/blob/main/Images/ring%20dron%20concept.png" height="400" alt="Complete Build">
+
 [Reasurch Project: Concave Airfoil](Airfoil/README.md)
+
+<img src="" height="400" alt="Complete Build">
