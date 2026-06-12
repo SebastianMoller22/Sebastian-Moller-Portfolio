@@ -1,2 +1,2 @@
 ## Concave Airfoil
-This project is set to start scientifically. However, the idea is to create a plane-like drone with its wings being able to tilt up or down. I have no idea what the aeronautics are or what the result will be. 
+This project is set to start scientifically. However, the idea is to create a plane-like drone with its wings being able to tilt up or down. This project is still in early development
